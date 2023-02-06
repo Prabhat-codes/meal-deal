@@ -1,0 +1,1 @@
+This is a ReadMe for Mealdeal, a social startup. 
